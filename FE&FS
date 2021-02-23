@@ -1,0 +1,14 @@
+
+1st research paper:     
+one feature
+They applied some statistical language model for spam and non spam 
+tweets and find the divergence b/w the models of language.
+
+2nd reasearch paper
+1st use some meta features:
+derive some new features using meta fatures.
+Also derive some features using tweet text.
+then apply word2vec.
+They generate heatmap and find the correlation of each feature with
+target class. 
+
